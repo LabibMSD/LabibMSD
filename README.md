@@ -13,9 +13,6 @@ Saat ini, saya fokus pada eksplorasi berbagai teknologi, membangun proyek yang b
 - ✌ Suwit Jawa
   - Game Suit (Batu, Gunting, Kertas) versi Jawa.
   - [Repository](https://github.com/LabibMSD/suwit-jawa) | [Demo](https://LabibMSD.github.io/suwit-jawa)
-- 📇 Contacts
-  - Contacts CRUD sederhana.
-  - [Repository](https://github.com/LabibMSD/contacts) | _Coming Soon_
 
 ## 🔗 Contacts aKu.
 - 📧 Email: [labib.msd.3001@gmail.com](mailto:labib.msd.3001@gmail.com)  
